@@ -3,7 +3,7 @@ Documenting code for paper IMECE2020-23711 Wet Gas Compressor Testing - Performa
 
 DOI: 10.5281/zenodo.3932869
   
-## how to use the code
+## How to use the code
 Set up the case to run in the %% Config section of the main.m script:
   - Chose EOS
   -Chose wet or dry input array
@@ -14,7 +14,7 @@ Set up the case to run in the %% Config section of the main.m script:
   
   Run the main.m script.
 
-# Results
+## Results
 All compressor performance results will be located in the Compressor structure
 
 All properties from the flash points will be located in the FP structure
