@@ -6,7 +6,7 @@ DOI: 10.5281/zenodo.3932869
 ## How to use the code
 Set up the case to run in the %% Config section of the main.m script:
 * Chose EOS
-*Chose wet or dry input array
+* Chose wet or dry input array
 
   .
   
