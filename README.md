@@ -7,9 +7,12 @@ DOI: 10.5281/zenodo.3932869
 Set up the case to run in the %% Config section of the main.m script:
 * Chose EOS
 *Chose wet or dry input array
-*  .
-*  .
-*  .
+  .
+  
+  .
+  
+  .
+  
 *  chose number of pertubations e.g. n = 10000
   
   Run the main.m script.
