@@ -1,7 +1,9 @@
 # IMECE2020-23711 Wet Gas Compressor Testing
 Documenting code for paper IMECE2020-23711 Wet Gas Compressor Testing - Performance Uncertainty
 
-Cite the code: [![DOI](https://zenodo.org/badge/277748690.svg)](https://zenodo.org/badge/latestdoi/277748690)
+Cite the code: 
+
+[![DOI](https://zenodo.org/badge/277748690.svg)](https://zenodo.org/badge/latestdoi/277748690)
 
 ## How to use the code
 Set up the case to run in the %% Config section of the main.m script:
